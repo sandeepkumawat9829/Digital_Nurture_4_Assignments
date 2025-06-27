@@ -1,0 +1,284 @@
+Folder PATH listing for volume OS
+Volume serial number is 848D-BBBC
+C:.
+¦   .gitignore.txt
+¦   structure.txt
+¦   
++---week1
+¦   +---Algorthms_Data Structures
+¦   ¦   +---Exercise 2 E-commerce Platform Search Function
+¦   ¦   ¦       output.png
+¦   ¦   ¦       Product.class
+¦   ¦   ¦       ProductSearch$1.class
+¦   ¦   ¦       ProductSearch.class
+¦   ¦   ¦       ProductSearch.java
+¦   ¦   ¦       
+¦   ¦   +---Exercise 7 Financial Forecasting
+¦   ¦           FinancialForecasting.class
+¦   ¦           FinancialForecasting.java
+¦   ¦           output.png
+¦   ¦           
+¦   +---Design Patterns and Principles
+¦       +---Exercise 1 Implementing the Singleton Pattern
+¦       ¦       Logger.class
+¦       ¦       Logger.java
+¦       ¦       output.png
+¦       ¦       SingletonTest.class
+¦       ¦       SingletonTest.java
+¦       ¦       
+¦       +---Exercise 2 Implementing the Factory Method Pattern
+¦               Document.class
+¦               Document.java
+¦               DocumentFactory.class
+¦               DocumentFactory.java
+¦               ExcelDocument.class
+¦               ExcelDocument.java
+¦               ExcelDocumentFactory.class
+¦               ExcelDocumentFactory.java
+¦               Main.class
+¦               Main.java
+¦               output.png
+¦               PdfDocument.class
+¦               PdfDocument.java
+¦               PdfDocumentFactory.class
+¦               PdfDocumentFactory.java
+¦               WordDocument.class
+¦               WordDocument.java
+¦               WordDocumentFactory.class
+¦               WordDocumentFactory.java
+¦               
++---week2
+    +---JUnit,Mockito and SL4J
+    ¦   +---1. JUnit_Basic Testing Exercises
+    ¦   ¦   +---MyJavaProject
+    ¦   ¦       ¦   pom.xml
+    ¦   ¦       ¦   
+    ¦   ¦       +---output
+    ¦   ¦       ¦       excercise1.png
+    ¦   ¦       ¦       excercise2.png
+    ¦   ¦       ¦       excercise3.png
+    ¦   ¦       ¦       excercise4.png
+    ¦   ¦       ¦       
+    ¦   ¦       +---src
+    ¦   ¦       ¦   +---main
+    ¦   ¦       ¦   ¦   +---java
+    ¦   ¦       ¦   ¦       +---com
+    ¦   ¦       ¦   ¦           +---example
+    ¦   ¦       ¦   ¦               +---exercise1
+    ¦   ¦       ¦   ¦               ¦       SimpleApp.java
+    ¦   ¦       ¦   ¦               ¦       
+    ¦   ¦       ¦   ¦               +---exercise2
+    ¦   ¦       ¦   ¦               ¦       Calculator.java
+    ¦   ¦       ¦   ¦               ¦       
+    ¦   ¦       ¦   ¦               +---exercise3
+    ¦   ¦       ¦   ¦               ¦       MathOperations.java
+    ¦   ¦       ¦   ¦               ¦       
+    ¦   ¦       ¦   ¦               +---exercise4
+    ¦   ¦       ¦   ¦                       NumberValidator.java
+    ¦   ¦       ¦   ¦                       
+    ¦   ¦       ¦   +---test
+    ¦   ¦       ¦       +---java
+    ¦   ¦       ¦           +---com
+    ¦   ¦       ¦               +---example
+    ¦   ¦       ¦                   +---exercise1
+    ¦   ¦       ¦                   ¦       SimpleAppTest.java
+    ¦   ¦       ¦                   ¦       
+    ¦   ¦       ¦                   +---exercise2
+    ¦   ¦       ¦                   ¦       CalculatorTest.java
+    ¦   ¦       ¦                   ¦       
+    ¦   ¦       ¦                   +---exercise3
+    ¦   ¦       ¦                   ¦       MathOperationsTest.java
+    ¦   ¦       ¦                   ¦       
+    ¦   ¦       ¦                   +---exercise4
+    ¦   ¦       ¦                           NumberValidatorTest.java
+    ¦   ¦       ¦                           
+    ¦   ¦       +---target
+    ¦   ¦           ¦   MyJavaProject-1.0-SNAPSHOT.jar
+    ¦   ¦           ¦   
+    ¦   ¦           +---classes
+    ¦   ¦           ¦   +---com
+    ¦   ¦           ¦       +---example
+    ¦   ¦           ¦           +---exercise1
+    ¦   ¦           ¦           ¦       SimpleApp.class
+    ¦   ¦           ¦           ¦       
+    ¦   ¦           ¦           +---exercise2
+    ¦   ¦           ¦           ¦       Calculator.class
+    ¦   ¦           ¦           ¦       
+    ¦   ¦           ¦           +---exercise3
+    ¦   ¦           ¦           ¦       MathOperations.class
+    ¦   ¦           ¦           ¦       
+    ¦   ¦           ¦           +---exercise4
+    ¦   ¦           ¦                   NumberValidator.class
+    ¦   ¦           ¦                   
+    ¦   ¦           +---generated-sources
+    ¦   ¦           ¦   +---annotations
+    ¦   ¦           +---generated-test-sources
+    ¦   ¦           ¦   +---test-annotations
+    ¦   ¦           +---maven-archiver
+    ¦   ¦           ¦       pom.properties
+    ¦   ¦           ¦       
+    ¦   ¦           +---maven-status
+    ¦   ¦           ¦   +---maven-compiler-plugin
+    ¦   ¦           ¦       +---compile
+    ¦   ¦           ¦       ¦   +---default-compile
+    ¦   ¦           ¦       ¦           createdFiles.lst
+    ¦   ¦           ¦       ¦           inputFiles.lst
+    ¦   ¦           ¦       ¦           
+    ¦   ¦           ¦       +---testCompile
+    ¦   ¦           ¦           +---default-testCompile
+    ¦   ¦           ¦                   createdFiles.lst
+    ¦   ¦           ¦                   inputFiles.lst
+    ¦   ¦           ¦                   
+    ¦   ¦           +---surefire-reports
+    ¦   ¦           ¦       com.example.exercise1.SimpleAppTest.txt
+    ¦   ¦           ¦       com.example.exercise2.CalculatorTest.txt
+    ¦   ¦           ¦       com.example.exercise3.MathOperationsTest.txt
+    ¦   ¦           ¦       com.example.exercise4.NumberValidatorTest.txt
+    ¦   ¦           ¦       TEST-com.example.exercise1.SimpleAppTest.xml
+    ¦   ¦           ¦       TEST-com.example.exercise2.CalculatorTest.xml
+    ¦   ¦           ¦       TEST-com.example.exercise3.MathOperationsTest.xml
+    ¦   ¦           ¦       TEST-com.example.exercise4.NumberValidatorTest.xml
+    ¦   ¦           ¦       
+    ¦   ¦           +---test-classes
+    ¦   ¦               +---com
+    ¦   ¦                   +---example
+    ¦   ¦                       +---exercise1
+    ¦   ¦                       ¦       SimpleAppTest.class
+    ¦   ¦                       ¦       
+    ¦   ¦                       +---exercise2
+    ¦   ¦                       ¦       CalculatorTest.class
+    ¦   ¦                       ¦       
+    ¦   ¦                       +---exercise3
+    ¦   ¦                       ¦       MathOperationsTest.class
+    ¦   ¦                       ¦       
+    ¦   ¦                       +---exercise4
+    ¦   ¦                               NumberValidatorTest.class
+    ¦   ¦                               
+    ¦   +---3. Mockito exercises
+    ¦   ¦   +---MockitoProject
+    ¦   ¦       ¦   pom.xml
+    ¦   ¦       ¦   
+    ¦   ¦       +---output
+    ¦   ¦       ¦       exercise1.png
+    ¦   ¦       ¦       exercise2.png
+    ¦   ¦       ¦       
+    ¦   ¦       +---src
+    ¦   ¦       ¦   +---main
+    ¦   ¦       ¦   ¦   +---java
+    ¦   ¦       ¦   ¦       +---com
+    ¦   ¦       ¦   ¦           +---example
+    ¦   ¦       ¦   ¦               +---mockito_exercise1
+    ¦   ¦       ¦   ¦               ¦       ExternalApi.java
+    ¦   ¦       ¦   ¦               ¦       MyService.java
+    ¦   ¦       ¦   ¦               ¦       
+    ¦   ¦       ¦   ¦               +---mockito_exercise2
+    ¦   ¦       ¦   ¦                       ExternalApi.java
+    ¦   ¦       ¦   ¦                       MyService.java
+    ¦   ¦       ¦   ¦                       
+    ¦   ¦       ¦   +---test
+    ¦   ¦       ¦       +---java
+    ¦   ¦       ¦           +---com
+    ¦   ¦       ¦               +---example
+    ¦   ¦       ¦                   +---mockito_exercise1
+    ¦   ¦       ¦                   ¦       MyServiceTest.java
+    ¦   ¦       ¦                   ¦       
+    ¦   ¦       ¦                   +---mockito_exercise2
+    ¦   ¦       ¦                           MyServiceTest.java
+    ¦   ¦       ¦                           
+    ¦   ¦       +---target
+    ¦   ¦           ¦   MockitoProject-1.0-SNAPSHOT.jar
+    ¦   ¦           ¦   
+    ¦   ¦           +---classes
+    ¦   ¦           ¦   +---com
+    ¦   ¦           ¦       +---example
+    ¦   ¦           ¦           +---mockito_exercise1
+    ¦   ¦           ¦           ¦       ExternalApi.class
+    ¦   ¦           ¦           ¦       MyService.class
+    ¦   ¦           ¦           ¦       
+    ¦   ¦           ¦           +---mockito_exercise2
+    ¦   ¦           ¦                   ExternalApi.class
+    ¦   ¦           ¦                   MyService.class
+    ¦   ¦           ¦                   
+    ¦   ¦           +---generated-sources
+    ¦   ¦           ¦   +---annotations
+    ¦   ¦           +---generated-test-sources
+    ¦   ¦           ¦   +---test-annotations
+    ¦   ¦           +---maven-archiver
+    ¦   ¦           ¦       pom.properties
+    ¦   ¦           ¦       
+    ¦   ¦           +---maven-status
+    ¦   ¦           ¦   +---maven-compiler-plugin
+    ¦   ¦           ¦       +---compile
+    ¦   ¦           ¦       ¦   +---default-compile
+    ¦   ¦           ¦       ¦           createdFiles.lst
+    ¦   ¦           ¦       ¦           inputFiles.lst
+    ¦   ¦           ¦       ¦           
+    ¦   ¦           ¦       +---testCompile
+    ¦   ¦           ¦           +---default-testCompile
+    ¦   ¦           ¦                   createdFiles.lst
+    ¦   ¦           ¦                   inputFiles.lst
+    ¦   ¦           ¦                   
+    ¦   ¦           +---surefire-reports
+    ¦   ¦           ¦       com.example.mockito_exercise1.MyServiceTest.txt
+    ¦   ¦           ¦       com.example.mockito_exercise2.MyServiceTest.txt
+    ¦   ¦           ¦       TEST-com.example.mockito_exercise1.MyServiceTest.xml
+    ¦   ¦           ¦       TEST-com.example.mockito_exercise2.MyServiceTest.xml
+    ¦   ¦           ¦       
+    ¦   ¦           +---test-classes
+    ¦   ¦               +---com
+    ¦   ¦                   +---example
+    ¦   ¦                       +---mockito_exercise1
+    ¦   ¦                       ¦       MyServiceTest.class
+    ¦   ¦                       ¦       
+    ¦   ¦                       +---mockito_exercise2
+    ¦   ¦                               MyServiceTest.class
+    ¦   ¦                               
+    ¦   +---6. SL4J Logging exercises
+    ¦       +---SLF4JProject
+    ¦           ¦   pom.xml
+    ¦           ¦   
+    ¦           +---output
+    ¦           ¦       exercise1.png
+    ¦           ¦       
+    ¦           +---src
+    ¦           ¦   +---main
+    ¦           ¦       +---java
+    ¦           ¦           +---com
+    ¦           ¦               +---example
+    ¦           ¦                   +---slf4j_exercise1
+    ¦           ¦                           LoggingExample.java
+    ¦           ¦                           
+    ¦           +---target
+    ¦               ¦   SLF4JProject-1.0-SNAPSHOT.jar
+    ¦               ¦   
+    ¦               +---classes
+    ¦               ¦   +---com
+    ¦               ¦       +---example
+    ¦               ¦           +---slf4j_exercise1
+    ¦               ¦                   LoggingExample.class
+    ¦               ¦                   
+    ¦               +---generated-sources
+    ¦               ¦   +---annotations
+    ¦               +---maven-archiver
+    ¦               ¦       pom.properties
+    ¦               ¦       
+    ¦               +---maven-status
+    ¦                   +---maven-compiler-plugin
+    ¦                       +---compile
+    ¦                           +---default-compile
+    ¦                                   createdFiles.lst
+    ¦                                   inputFiles.lst
+    ¦                                   
+    +---PLSQL programming
+        ¦   tables.sql
+        ¦   
+        +---Exercise 1 Control Structures
+        ¦       scenario1.sql
+        ¦       scenario2.sql
+        ¦       scenario3.sql
+        ¦       
+        +---Exercise 3 Stored Procedures
+                scenario1.sql
+                scenario2.sql
+                scenario3.sql
+                

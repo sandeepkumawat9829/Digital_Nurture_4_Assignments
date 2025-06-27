@@ -1,0 +1,6 @@
+# Maven
+target/
+*.class
+# IDE
+.vscode/
+*.log
