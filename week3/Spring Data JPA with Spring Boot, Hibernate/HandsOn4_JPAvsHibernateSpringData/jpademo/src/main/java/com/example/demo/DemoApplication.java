@@ -21,5 +21,6 @@ public class DemoApplication implements CommandLineRunner {
     public void run(String... args) {
         Employee emp = new Employee("Harsh", 50000);
         employeeService.addEmployee(emp);
+        System.out.println("Employee saved: " + emp);
     }
 }
